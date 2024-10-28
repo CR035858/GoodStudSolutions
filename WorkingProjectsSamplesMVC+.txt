@@ -1,0 +1,156 @@
+JWT Security Implementation Without Error But need to check the Other Workability
+C:\GreatLearningOfficial\Academics\SupportTickets\Nov-2023\18-Nov-2023\Monica-393502
+
+
+
+SpringBoot Security -restFul - Working with Dynamic Users/Roles generated
+C:\GreatLearningOfficial\Academics\QC\11-Nov-2023\G1B1\G1B1_BED_GradedProject4-main\G1B1_BED_GradedProject4\G1B1_GradedProject4-master
+
+SpringBoot - Security -Rest-H2 Corrected & Working
+C:\GreatLearningOfficial\Academics\SupportTickets\Oct-2023\Oct-31-2023\Rohit-390502\trailproject-main\EmployeeManagementRestAPI
+
+
+-A1 Working SpringBoot Security with initialized UERS/ROLES
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\ASep-2023\Sep2-23\AmanRaj-369754\amanraj_FSD_BED_LAB-6-main\student-registration-app
+
+-A Working Maven ARchetype Project with Initializer & Configuration of DispatcherServlet manually
+C:\Training2020-21-22\CTS2021-22June03BatchSDET005\SDETJuneWeb\mvcthymedec24
+
+
+
+A) Working RESTFUL SERVICE WITH SECURITY without WebSecurityConfigurerAdapter
+
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\May-2023\May-09-2023\Piyush\TodoManagement
+
+B) Working RESTFUL SERVICE WITH SECURITY
+C:\Training2020-21-22\BGreatLearning\Academic\RevisionSessions\Oct-2022\MentorConnect10Oct22\SecurityDemoWeek17\Employee-Service-Rest-Security\
+
+C) Working RESTFUL SERVICE WITH SECURITY without WebSecurityConfigurerAdapter -  REST API
+C:\GreatLearningOfficial\Academics\Technologies\SpringSecurity\SpringSecurityWOCfgAdapter
+
+
+--------------------------------->
+1)HIBERNATE CRUD GOOD PROJECT -MavenProject  BYSTUDENT
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Dec-2022\Dec-10-2022\PritiJoshi\Hibernate-crud1-main\glearning-hibernate-crud-master
+
+2) Thymeleaf MVC without XML configuration
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Dec-2022\Dec-14-2022\SanskarSethiya\spring-simple-webapp-main\WebApp
+
+
+2a) Spring Configuration DispatcherServletInitializer:
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Dec-2022\Dec-21-2022\DeepaSijoy\Maven_Practise-main\webApp
+
+
+3) SPringMVC Swagger-H2 Related
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Sep2022\14-Sep-22\ArunJoseph\spring-boot-library-main\spring-boot-library-design
+
+4)SpringMVC-AOP
+C:\Training2020-21-22\BGreatLearning\Academic\SampleDemos\AOPBySTudentIssue\Spring-Aop-Doubt-main\spring-aop
+
+5) SpringBootCRUD+Thymeleaf
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Dec-2022\Dec-22-2022\Himanshu\DebugError-main\MentoringSession5_LibraryManagement
+
+Proj Name:libmgmt
+
+5a) SpringBootCRUD + Thymeleaf+CSS+ static default index.html page : GOOD ONE
+
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Mar-2023\IITR-STudents\Mar-29\Vivek\4_LibraryManagment
+
+6) Complete Hibernate CRUD - Maven Project
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Dec-2022\Dec-22-2022\Usha\glearning-hibernate-crud-master-main\glearning-hibernate-crud-master
+Project Name: hibernate-crud
+
+7) Swagger etc Working Projects:
+a)
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Oct2022\18-Oct-22\VilasBhaskar\Git-Repo1-main\spring-boot-library-design
+b)
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Sep2022\26-Sep-22\Daniel\SampleSwagger-main\sampleSwagger
+c)
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Oct2022\18-Oct-22\VilasBhaskar\Git-Repo1-main\spring-boot-library-design
+
+8) Health/ACtuator Project working Project
+
+C:\Training2020-21-22\BGreatLearning\Academic\RevisionSessions\Dec-2022\Dec24-2022CRoomSsn\MyDemos\healthcheck
+
+9) Health Plus Thymeleaf Projects
+C:\Training2020-21-22\BGreatLearning\Academic\RevisionSessions\Dec-2022\Dec24-2022CRoomSsn\MyDemos
+
+10) Swagger+Builder+DBconnection with Data.sql file -Samarth Narulla
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Jan-2023\Jan-03-2023\Mohan\spring-boot-library-design-Mohan
+
+11) Working LibraryData Project by Samarth Narul
+WITH PAGINATION
+
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Jan-2023\Jan-09-2023\AkhilSai\spring-boot-library-design-main\spring-boot-library-design
+
+11a) libms rectified for Shanmugapriya working basic things with H2 
+
+
+WORKING PRUNE TABLE etc H2:
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\June-2023\Jun-22-2023\SR347602-Harihar
+
+SECURITY
+C:\Training2020-21-22\BGreatLearning\Academic\ContentTuning\LABCHECKSecurityNew27Jan2023\NewRevised
+
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Oct2022\31-Oct-22\Navya\SpringBoot-main\LibraryManagementSecurityDemo
+
+
+String courseName, String couresType, String FirstName, String LastName
+
+SpringBootProject with EDIT view with tools
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Solutions\WorkingProjectsSamplesALL
+
+Project :G1B4
+for snapshot see: in same folder: SnapForEdit.png file
+
+
+SPRINGBOOT LIBRARY PROJECT h2 with Queries LOGGED on console with all functionalities working:
+C:\Training2020-21-22\BGreatLearning\Academic\StudentTicketSupport\Aug-2023\Aug03-2023\Praveen-360663
+
+SPRINGBOOT PROJECT + THYMELEAF + CRUD(JPA) JDK 17 SpringBoot 3.1.x[Kasturis Project fully Corrected and Working]
+
+C:\GreatLearningOfficial\Academics\SupportTickets\Sep28-2023\Kasturi-379832\LatestForCheck4Oct
+
+SPRINGBOOT PROJECT + CRUD (JPA)+ SECURITY + H2 [ Almost working projects - most features]
+Normal WebApp Not RestFul
+C:\GreatLearningOfficial\Academics\QC\05-Oct-2023\BalajiPriyan\ShaluSharmaProject\G3AB7_BED_GradedProject4-main 
+
+
+SPRINGBOOT PROJECT + CRUD (JPA)+ SECURITY + H2 [ Almost working projects - most features]
+RESTFul
+C:\GreatLearningOfficial\Academics\SupportTickets\Sep28-2023\Kasturi-379832\LatestForCheck4Oct\KasturiSingnapure_BED_LabSpringMVC1-main\springboot-thymeleaf-crud-webapp\springboot-thymeleaf-crud-webapp
+(User/Roles Not available)
+
+TICKETTRACKER APP WITH UI [WITH ICONS ON TEXTAREA - font etc]
+C:\GreatLearningOfficial\Academics\QC\22-Oct-2023\Bindu\G1B5\G1B5_BED_GradedProject3-main\G1B5_BED_GradedProject3\Ticket-Tracker-App-G1B5
+
+H2 SpringBoot SECURITY WORKING PROJECT WITH SWAGGER
+C:\GreatLearningOfficial\Academics\SupportTickets\Jan-2024\Jan-27\Venkataraman-417364\Week18-SpringBootSecurity-main\Week18-spring-boot-security
+
+
+FILTER BASED SECURITY WITHOUT USING WEBSECURITYCONFIGURERADAPTER WORKING ONE
+1) C:\GreatLearningOfficial\Academics\SupportTickets\Jan-2024\Jan-27\Venkataraman-417364\SecondProjectToCheck\College_Student_Registration_for_Debate
+2) C:\GreatLearningOfficial\Academics\SupportTickets\Solutions\SpringSecurityWithFilterWorking
+3) C:\GreatLearningOfficial\Academics\QC\10-Feb-2024\BinduTandon\RehanRabbani\Rehan_BED_Lab6-main\college
+4) C:\GreatLearningOfficial\Academics\SupportTickets\Feb-2024\Feb-27-2024\RehanRabbani-429815\Doubt-main\springSecurity4a
+
+
+GOOD WORKING SECURITY PROJECT USING FAKER/BUILDER / SECURITYFILTERCHAIN
+
+
+C:\GreatLearningOfficial\Academics\SupportTickets\Feb-2024\Feb-10-2024\Prajakta-422778\RestAPI-main
+================================
+WORKING
+Maven - Hibernate MVC Project[MYSQL]  - ARCHETYPE WEBAPP 1.4 [created own package removing project name giving com.gl as plain base package 
+	Maven - Hibernate - XML based Configuration - Thymeleaf - HTML - Spring MVC - MYSQL
+
+
+C:\Users\R Chandra Shekar\WSpace2023\gradedprojectb
+================================
+WORKING
+Maven - Hibernate MVC Project[MYSQL]  - ARCHETYPE WEBAPP 1.4 [created own package removing project name giving com.gl as plain base package 
+	Maven - Hibernate - CLASS based Configuration - Thymeleaf - HTML - Spring MVC - MYSQL
+
+C:\Users\R Chandra Shekar\WSpace2023\gradedproject3a
+
+===========================================================================================================================================
